@@ -30,7 +30,7 @@ $ python3 leakkcheck.py
 ## Windows:
 
 ```sh
-    > same as linux
+> same as linux
 ```
 
 
