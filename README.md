@@ -24,7 +24,7 @@
 $ git clone https://github.com/StrinTH/checkleaks
 $ cd cheakleaks
 $ pip install -r requirements.txt
-$ python3 leakkcheck.py
+$ python3 leakcheck.py
 
 ```
 ## Windows:
