@@ -22,7 +22,7 @@
 ```sh
 
 $ git clone https://github.com/StrinTH/checkleaks
-$ cd cheakleaks
+$ cd checkleaks
 $ pip install -r requirements.txt
 $ python3 leakcheck.py
 
