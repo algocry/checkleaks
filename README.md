@@ -10,7 +10,7 @@
 #### NOTE:
 
 ```sh
-    Note: This tool does not use any of .onion sites directly for data supply.
+    Note: This tool does not work anymore as the provider onion site pwndb is not active anymore. ARCHIVING..
 ```
 
 ### ***Sample Preview***
